@@ -9,6 +9,14 @@ Welcome to the **AIT-Focuse** a **Class Resources Repository**! This GitHub acco
 - 🌎 **Public Access**: This repository is open for all students in this section.  
 
 ## 👥 Managed By  
-This repository is maintained by **Usman, Muzummil, and Class CRs** to help students stay organized and access resources efficiently.  
+This repository is maintained by **Class CRs**:
+- Rana Qasim Shafiq
+- Ahmed Ali Yousuf
+- Aima Faheem
+And Co-maintained by:
+- Usman Shaikh
+- Muzummil Baig
+
+This all is to help students stay organized and access resources efficiently.  
 
 🚀 Stay updated and make the most out of your learning experience!  
