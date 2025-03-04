@@ -12,7 +12,7 @@ Welcome to the **AIT-Focuse** a **Class Resources Repository**! This GitHub acco
 This repository is maintained by **Class CRs**:
 - Rana Qasim Shafiq
 - Ahmed Ali Younas
-- Aima Faheem
+- Aima Faheem\n
 Co-Maintained by:
 - Muzummil Baig
 - Usman Shaikh
