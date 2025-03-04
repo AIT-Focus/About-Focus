@@ -11,11 +11,11 @@ Welcome to the **AIT-Focuse** a **Class Resources Repository**! This GitHub acco
 ## 👥 Managed By  
 This repository is maintained by **Class CRs**:
 - Rana Qasim Shafiq
-- Ahmed Ali Yousuf
+- Ahmed Ali Younas
 - Aima Faheem
 And Co-maintained by:
-- Usman Shaikh
 - Muzummil Baig
+- Usman Shaikh
 
 This all is to help students stay organized and access resources efficiently.  
 
