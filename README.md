@@ -13,7 +13,7 @@ This repository is maintained by **Class CRs**:
 - Rana Qasim Shafiq
 - Ahmed Ali Younas
 - Aima Faheem
-And Co-maintained by:
+Co-Maintained by:
 - Muzummil Baig
 - Usman Shaikh
 
